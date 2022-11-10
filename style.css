@@ -1,0 +1,20 @@
+body{}
+h1{
+    color:crimson;
+text-align:center;
+}
+.title{
+    collums: brown;
+    text-align: center;
+}
+.space{
+    width: 600px;
+    height: 600px;
+    margin: 0 auto;
+    
+    
+    
+} 
+.wrap{
+  display: flex;
+}

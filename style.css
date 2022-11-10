@@ -18,3 +18,9 @@ text-align:center;
 .wrap{
   display: flex;
 }
+.link{
+    color: rgb(188, 199, 40);
+    border: 1px solid blueviolet;
+    padding: 10px 20px;
+    border-radius: 15px
+}
